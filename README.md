@@ -1,4 +1,4 @@
-👋 Hi, I'm [Daniel Celestial], a programming enthusiast on a continuous learning journey. Here's a bit about me:
+👋 Hi, I'm Daniel Celestial, a programming enthusiast on a continuous learning journey. Here's a bit about me:
 
 📚 Currently learning Vue.js
 🚀 Experienced in HTML, CSS, JS, Laravel, PHP, and Bootstrap but still learning
