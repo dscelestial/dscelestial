@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi, I'm [Daniel Celestial], a programming enthusiast on a continuous learning journey. Here's a bit about me:
+
+📚 Currently learning Vue.js
+🚀 Experienced in HTML, CSS, JS, Laravel, PHP, and Bootstrap but still learning
+🔍 Always seeking opportunities to improve my programming skills
+🎯 Future goal: Learn and master React.js, Node.js
+
+Open to collaboration and new challenges. Let's code and learn together! 💻🚀
 
 <!--
 **dscelestial/dscelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
