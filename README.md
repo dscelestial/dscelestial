@@ -1,12 +1,8 @@
-👋 Hi, I'm Daniel Celestial, a programming enthusiast on a continuous learning journey. Here's a bit about me:
+👋 Hi, I'm Daniel Celestial, a software developer on a continuous learning journey. Here's a bit about me:
 
-📚 Currently learning Flutter, Dart <br>
+📚 Currently learning Flutter, Dart , Springboot <br>
 🚀 Experienced in HTML, CSS, JS, Laravel, PHP, Java, Wordpress and Bootstrap but still learning <br>
-🔍 Always seeking opportunities to improve my programming skills <br>
 🎯 Future goal: Master Game Development <br>
-
-Open to collaboration and new challenges. Let's code and learn together! 💻🚀
-
 <!--
 **dscelestial/dscelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
