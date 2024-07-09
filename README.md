@@ -1,8 +1,7 @@
 👋 Hi, I'm Daniel Celestial, a software developer on a continuous learning journey. Here's a bit about me:
 
-📚 Currently learning Flutter, Dart , Springboot <br>
-🚀 Experienced in HTML, CSS, JS, Laravel, PHP, Java, Wordpress and Bootstrap <br>
-🎯 Future goal: Master Game Development <br>
+📚 Currently learning React.js Springboot <br>
+🚀 Experienced in HTML, CSS, JS, Laravel, PHP, Java, Wordpress <br>
 <!--
 **dscelestial/dscelestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
